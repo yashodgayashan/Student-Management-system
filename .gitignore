@@ -1,0 +1,5 @@
+#ignore the node modules and package-lock in the backend
+/Backend/node_modules
+/Backend/package-lock.json
+
+
